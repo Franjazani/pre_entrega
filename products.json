@@ -1,0 +1,23 @@
+[
+            {
+                "id": "etiqueta01",
+                "nombre": "Artesano Manos Negras",
+                "descripcion": "vino tinto malbec",
+                "codigo": "ABZ001",
+                "precio": 3300,
+                "stock": 6,
+                "foto": "https://vinomanos.com/wp-content/uploads/2018/12/Manos_Negras_Artesano_Mlb-v.png",
+                "timestap":"new Date()"
+            },
+
+           {
+                "id": "etiqueta02",
+                "nombre": "Buescapleitos La Azul",
+                "descripcion": "vino tinto bonarda",
+                "codigo": "ABB004",
+                "precio": 1950,
+                "stock": 6,
+                "foto": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/383/721/products/azul-buscapleito-bonarda1-54e045e24286bc0c9216511622851550-1024-1024.png",
+                "timestap":"new Date()"
+            }
+        ]
